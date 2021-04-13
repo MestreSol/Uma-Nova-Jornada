@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+AIC9bEYrJ5xj3YONzGiCNibSbw2w+9gPFYEGJjX7vatKj5cIMXUbhauWveBP4D5Q8YizkzcUaUG+nGIWcVqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbmui\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\UNJ\\UNJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbmui\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
