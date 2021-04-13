@@ -28,11 +28,10 @@ namespace UNJ.Items.Pet
 
 		public override void AddRecipes()
 		{
-			/*ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemType<Paper>(), 10);
-			recipe.AddTile(TileType<PaperWorkbench>());
-			recipe.SetResult(this);
-			recipe.AddRecipe();*/
+			
+			ModRecipe recipe = new ModRecipe(mod); // Gera uma receita para o item atual.
+
+
 		}
 
 		public override void UseStyle(Player player)
